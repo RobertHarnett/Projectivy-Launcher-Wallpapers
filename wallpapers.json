@@ -1,0 +1,18 @@
+[
+    {
+        "location": "Undersea",
+        "title": "Tahiti Waves 1",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_804_A001_8_SDR_20191031_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_804_A001_8_HDR_20191031_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_804_A001_8_SDR_20191031_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_804_A001_8_HDR_20191031_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Undersea",
+        "title": "Tahiti Waves 2",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_803_A001_8_SDR_20191031_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_803_A001_8_HDR_20191031_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_803_A001_8_SDR_20191031_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_TH_803_A001_8_HDR_20191031_HDR_4K_HEVC.mov"
+    }
+]
